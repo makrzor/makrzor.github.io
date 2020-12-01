@@ -16498,7 +16498,9 @@ var _user$project$Day$findComfortableRange = F2(
 			}
 		}
 	});
-var _user$project$Day$startOfAoC = 1543640400000;
+// 2018: var _user$project$Day$startOfAoC = 1543640400000;
+// 2019: var _user$project$Day$startOfAoC = 1575262800000;
+var _user$project$Day$startOfAoC = 1606798800000;
 var _user$project$Day$endOfAoC = _user$project$Day$startOfAoC + (_user$project$Day$day * 26);
 var _user$project$Day$comfortableRange = function (dataMax) {
 	return {
